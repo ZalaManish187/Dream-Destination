@@ -1,0 +1,13 @@
+.detailContainer{
+    width:90%;
+}
+.formDetail{
+    background: rgb(247, 244, 244);
+    box-shadow: 4px 8px 4px solid rgb(225, 0, 0);
+}
+.tourBtn{
+   background-color:#fca744;
+   border-radius: 1.8rem;
+   text-align: center;
+   
+}
